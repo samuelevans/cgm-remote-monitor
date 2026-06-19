@@ -134,7 +134,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md)
 - [Nightscout Setup](https://nightscout.github.io/nightscout/new_user/) (recommended)
 
 While you can install Nightscout on a virtual server or a Raspberry Pi, we do not recommend this unless you have at least some
-experience hosting Node applications and development using the toolchain in use with Nightscout.
+experience hosting Node applications and development using the toolchain in use with Nightscout..
 
 If you're a hosting provider and want to provide our users additional hosting options,
 you're welcome to issue a documentation pull request with instructions on how to setup Nightscout on your system.
